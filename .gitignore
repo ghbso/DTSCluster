@@ -77,3 +77,4 @@ fabric.properties
 # IntelliJ
 /out/
 DTSCLuster.iml
+.idea/vcs.xml
